@@ -18,7 +18,7 @@ No memory reading. No manual setup. Just launch and play.
 
 ## 📥 Installation
 
-1.  Go to the [**Releases Page**](https://github.com/Oscript07/SDVX-Rich-Presence/releases) and download `SDVX_Launcher.exe`.
+1.  Go to the [**Releases Page**](https://github.com/Oscript07/SDVX-Rich-Presence/releases) and download `SDVX_RPC_Launcher.exe`.
 2.  Place the `.exe` file inside your game folder (same folder as `spice64.exe`).
 <p align="left">
   <img src="assets/FolderExample.png" width="600" alt="Folder example">
