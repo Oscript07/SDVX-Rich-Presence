@@ -26,7 +26,7 @@ No memory reading. No manual setup. Just launch and play.
 
 ## ❓ How to use
 
-1.  Do **`not`** run **`Spice64.exe`**Run **`SDVX_RPC_Launcher.exe`**(Admin rights required to read game logs to update Discord status).
+1.  Do **`not`** run **`Spice64.exe`** Run **`SDVX_RPC_Launcher.exe`**(Admin rights required to read game logs to update Discord status).
 2.  The game will start automatically.
 3.  **As you move in the song selection** it will sync your status.
    <p align="left">
