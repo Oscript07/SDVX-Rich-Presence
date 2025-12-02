@@ -4,6 +4,10 @@
 ![Discord](https://img.shields.io/badge/Discord-Rich%20Presence-7289da.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows-win.svg)
 
+<p align="center">
+  <img src="assets/imgPrincip.png" width="600" alt="SDVX RPC Logo">
+</p>
+
 A fully automatic **Discord Rich Presence** integration for **Sound Voltex Exceed Gear** (Spice2x).
 No memory reading. No manual setup. Just launch and play.
 
