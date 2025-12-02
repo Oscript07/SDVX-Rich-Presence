@@ -1,4 +1,4 @@
-# 🩵🩷 SDVX Rich Presence Launcher
+# 🩵🩷 SDVX Discord Rich Presence Launcher 🩵🩷
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)
 ![Discord](https://img.shields.io/badge/Discord-Rich%20Presence-7289da.svg)
