@@ -34,4 +34,4 @@ If you want to modify the code or build it yourself:
 
 ```bash
 pip install pypresence pyinstaller
-pyinstaller --onefile --uac-admin --name "SDVX_Launcher" sdvx_rpc.py
+pyinstaller --onefile --uac-admin --name "SDVX_RPC_Launcher" sdvx_rpc.py
