@@ -26,6 +26,9 @@ No memory reading. No manual setup. Just launch and play.
 1.  Run **`SDVX_Launcher.exe`** (Admin rights required to read game logs to update Discord status).
 2.  The game will start automatically.
 3.  **As you move in the song selection** it will sync your status.
+   <p align="left">
+  <img src="assets/ExamplePlaying.png" width="600" alt="Discord Status Example">
+</p>
 4.  Enjoy! Discord will update automatically.
 
 ## 🛠️ Building from source
