@@ -8,7 +8,7 @@
   <img src="assets/imgPrincip.png" width="600" alt="SDVX RPC Logo">
 </p>
 
-(Just to clarify I made this cuz I was bored and I wanted to show what songs I'm playing to my friends, I barely will update it)
+(Just to clarify I made this cuz I was bored and I wanted to show what songs I'm playing to my friends, I will barely update it)
 
 A fully automatic **Discord Rich Presence** integration for **Sound Voltex Exceed Gear** (Spice2x).
 No memory reading. No manual setup. Just launch and play.
