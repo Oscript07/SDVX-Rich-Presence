@@ -14,8 +14,12 @@ A fully automatic **Discord Rich Presence** integration for **Sound Voltex ∇ (
 No memory reading. No manual setup. Just launch and play.
 
 ## 🌀 Exceed Gear Old Version
-If you are playing **Exceed Gear**, please use the [old version](https://github.com/Oscript07/SDVX-Rich-Presence) found here:  
+If you are playing **Exceed Gear**, please use the [old version](https://github.com/Oscript07/SDVX-Rich-Presence) downloadable here:  
 👉 **[Exceed Gear Release](https://github.com/Oscript07/SDVX-Rich-Presence/releases/tag/V1.0)**
+<br>
+<br>
+<br>
+<br>
 
 ## ✨ Features
 
