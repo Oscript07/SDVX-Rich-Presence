@@ -12,9 +12,15 @@
 
 A fully automatic **Discord Rich Presence** integration for **Sound Voltex Exceed Gear** (Spice2x).
 No memory reading. No manual setup. Just launch and play.
-
+```diff
++⬇️⬇️Sound Voltex Nabla ∇ version⬇️⬇️
+```
 > [!IMPORTANT]
-> **Looking for the Sound Voltex Nabla version?** > You can find the specific RPC for Nabla ∇ in the [Nabla Version Branch](https://github.com/Oscript07/SDVX-Rich-Presence/tree/nabla) or download the latest executable from the [Nabla Release Page](https://github.com/Oscript07/SDVX-Rich-Presence/releases/tag/V1.1).
+> **Looking for the Sound Voltex Nabla ∇ version?** > You can find the specific RPC for Nabla ∇ in the [Nabla Version Branch](https://github.com/Oscript07/SDVX-Rich-Presence/tree/nabla) or download the latest executable from the [Nabla Release Page](https://github.com/Oscript07/SDVX-Rich-Presence/releases/tag/V1.1).
+<br>
+<br>
+<br>
+<br>
 
 ## ✨ Features
 
