@@ -13,6 +13,10 @@
 A fully automatic **Discord Rich Presence** integration for **Sound Voltex ∇ (Nabla)** (Spice2x).
 No memory reading. No manual setup. Just launch and play.
 
+## 🌀 Exceed Gear Old Version
+If you are playing **Exceed Gear**, please use the [old version](https://github.com/Oscript07/SDVX-Rich-Presence) found here:  
+👉 **[Exceed Gear Release](https://github.com/Oscript07/SDVX-Rich-Presence/releases/tag/V1.0)**
+
 ## ✨ Features
 
 * 🚀 **Auto-Launcher:** Opens `spice64.exe` for you.
