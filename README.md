@@ -13,6 +13,9 @@
 A fully automatic **Discord Rich Presence** integration for **Sound Voltex Exceed Gear** (Spice2x).
 No memory reading. No manual setup. Just launch and play.
 
+> [!IMPORTANT]
+> **Looking for the Sound Voltex Nabla version?** > You can find the specific RPC for Nabla ∇ in the [Nabla Version Branch](https://github.com/Oscript07/SDVX-Rich-Presence/tree/nabla) or download the latest executable from the [Nabla Release Page](https://github.com/Oscript07/SDVX-Rich-Presence/releases/tag/V1.1).
+
 ## ✨ Features
 
 * 🚀 **Auto-Launcher:** Opens `spice64.exe` for you.
@@ -20,7 +23,7 @@ No memory reading. No manual setup. Just launch and play.
 
 ## 📥 Installation
 
-1.  Go to the [**Releases Page**](https://github.com/Oscript07/SDVX-Rich-Presence/releases) and download `SDVX_RPC_Launcher.exe`.
+1.  Go to the V1.0 in the [**Releases Page**](https://github.com/Oscript07/SDVX-Rich-Presence/releases/tag/V1.0) and download `SDVX_RPC_Launcher.exe`.
 2.  ‼️Place the `.exe` file inside your game folder (same folder as `spice64.exe`).‼️
 <p align="left">
   <img src="assets/FolderExample.png" width="600" alt="Folder example">
