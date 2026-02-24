@@ -6,14 +6,14 @@ import time
 from pypresence import Presence
 
 # --- CONFIGURATION ---
-CLIENT_ID = '1444878192463839412' 
+CLIENT_ID = '1475931399554076875' 
 GAME_EXECUTABLE = "spice64.exe" 
 
 # --- IMAGE ASSETS ---
 # Keys must match assets uploaded to Discord Developer Portal
-IMG_DEFAULT = "sdvx_logo"
-IMG_MENU    = "sdvx_logo"
-IMG_PLAYING = "sdvx_logo"
+IMG_DEFAULT = "nabla_logo"
+IMG_MENU    = "nabla_logo"
+IMG_PLAYING = "nabla_logo"
 
 def print_logo():
     # Clear console
@@ -175,7 +175,7 @@ def main():
                     if rpc:
                         details_txt = f"{active_event}"
                         if play_mode: details_txt += f" ({play_mode})"
-                        rpc.update(state="Choosing Song...", details=details_txt, large_image=IMG_MENU, large_text="Exceed Gear")
+                        rpc.update(state="Choosing Song...", details=details_txt, large_image=IMG_MENU, large_text="∇")
 
             # Exit
             if "LoadingIFS" in line and "ver06/ms_sel" in line:
@@ -245,7 +245,7 @@ def main():
                     img_key = get_image_key("Selecting")
 
                     if rpc:
-                        rpc.update(state=state_txt, details=details_txt, large_image=img_key, large_text="Exceed Gear")
+                        rpc.update(state=state_txt, details=details_txt, large_image=img_key, large_text="∇")
 
             # Playing
             if "in ALTERNATIVE_GAME_SCENE" in line:
